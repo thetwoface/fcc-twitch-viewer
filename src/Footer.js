@@ -5,6 +5,9 @@ export default function Footer(props) {
 		<footer className='text-muted py-5'>
 			<div className='container'>
 				<p className="text-center">
+					<a href='https://www.freecodecamp.org'>miketwoface</a>
+				</p>
+				<p className="text-center">
 					<a href='https://www.freecodecamp.org'>freeCodeCamp</a>
 				</p>
 			</div>
